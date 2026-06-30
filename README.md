@@ -31,10 +31,12 @@ Software Developer | DevOps Enthusiast | Cloud Learner
 ## 🛠️ Tech Stack
 
 ### Languages
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
