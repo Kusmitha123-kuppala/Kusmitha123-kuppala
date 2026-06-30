@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kusumitha Kuppala</h1>
 
 <h3 align="center">
-Software Developer | Full Stack Developer | DevOps Enthusiast | Cloud Learner
+Software Developer | DevOps Enthusiast | Cloud Learner
 </h3>
 
 <p align="center">
