@@ -5,7 +5,7 @@ Software Developer | DevOps Enthusiast | Cloud Learner
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Software+Developer;Full+Stack+Developer;DevOps+Engineer;Cloud+Computing+Learner;150%2B+LeetCode+Problems+Solved" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Software+Developer;DevOps+Engineer;Cloud+Computing+Learner;150%2B+LeetCode+Problems+Solved" />
 </p>
 
 ---
